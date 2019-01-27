@@ -1,0 +1,27 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+header h1 {
+  font-size: 3em;
+  font-style: normal;
+  text-align: center;
+  font-family: "Titillium+Web";
+}
+body {
+  background-color: #ccc2ed;
+  color: #171219;
+  margin: 0;
+}
+
+header {
+  font-family: "Titillium+Web";
+}
+
+main aside h2, main section h3 {
+  font-size: 2em;
+}
+
+main section p {
+
+}
