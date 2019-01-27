@@ -1,0 +1,56 @@
+.icon-pencil:before {
+  content: "\e905";
+}
+
+
+header {
+  text-align: center;
+  background-color:#44A1A0;
+}
+
+main {
+  text-align: center;
+  background-color:#78cdd7;
+
+}
+body {
+
+
+}
+nav {
+  background-color: #44A1A0;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+
+}
+
+nav li {
+  float: none;
+  padding 1em;
+  text-decoration: inherit;
+}
+
+nav ul {
+  list-style: circle;
+  font size: armenian;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+nav li{
+  float: left;
+  padding: 0.5em
+
+
+}
+
+nav a {
+  padding: 0.5em;
+  color: #dddddd;
+  width:
+
+
+}
