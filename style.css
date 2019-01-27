@@ -68,3 +68,19 @@ nav a:hover {
   background-color: #008293;
 
 }
+
+footer {
+  border-top: 1px solid #0f0c09;
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+footer a{
+  color: #0f0c09;
+}
+
+footer a:hover {
+  color: #008293;
+}
