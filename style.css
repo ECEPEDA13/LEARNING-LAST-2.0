@@ -20,8 +20,50 @@ header {
 
 main aside h2, main section h3 {
   font-size: 2em;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 }
 
 main section p {
+
+}
+
+nav {
+  background-color: #c9d9ff;
+  margin: 0;
+  padding: 0;
+  overflow:auto;
+}
+
+nav ul {
+    list-style: none;
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    float: left;
+}
+
+nav a{
+  display: inline-block;
+  padding: 0.5em;
+  color:#0f0c09;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 1em;
+  border-right:: 1px solid #0f0c09;
+}
+
+nav a:hover {
+  background-color: #008293;
 
 }

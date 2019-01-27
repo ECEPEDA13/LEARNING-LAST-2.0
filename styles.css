@@ -8,6 +8,14 @@ header {
   background-color:#44A1A0;
 }
 
+header img {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  margin: 0 0.5em 0.5em 0;
+}
+
 main {
   text-align: center;
   background-color:#78cdd7;
